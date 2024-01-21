@@ -4,3 +4,4 @@
 ||storm.mg
 ! pronoun in title
 ||youtube.com/@JinRyangKR^$all
+||tw.news.yahoo.com
