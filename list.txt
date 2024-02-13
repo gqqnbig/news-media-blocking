@@ -3,5 +3,5 @@
 !fog
 ||storm.mg
 ! pronoun in title
-||youtube.com/@JinRyangKR^$all
+youtube.com##body:matches-path(/@JinRyangKR/)
 ||tw.news.yahoo.com
