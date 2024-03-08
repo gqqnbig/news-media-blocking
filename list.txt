@@ -1,6 +1,6 @@
 !image of text, missing references
 ||unwire.hk  
-!fog
+!fog (emotional)
 ||storm.mg
 ! pronoun in title
 youtube.com##body:matches-path(/@JinRyangKR/)
