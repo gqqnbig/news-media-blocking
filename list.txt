@@ -5,3 +5,4 @@
 ! pronoun in title
 youtube.com##body:matches-path(/@JinRyangKR/)
 ||tw.news.yahoo.com
+||8world.com
