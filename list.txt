@@ -5,3 +5,6 @@
 ! pronoun in title
 youtube.com##body:matches-path(/@JinRyangKR/)
 ||tw.news.yahoo.com
+
+! infringement on intellectual property
+youtube.com##body:matches-path(/@user-lx9hr4tb2v/)
