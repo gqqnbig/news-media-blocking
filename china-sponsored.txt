@@ -1,5 +1,6 @@
 youtube.com##body:matches-path(/@CuteCompass)
 youtube.com##body:matches-path(/@TreeMan)
+youtube.com##body:matches-path(/@caterwc)
 youtube.com##body:matches-path(/@rolfyeliasdeleonmendez)
 youtube.com##body:matches-path(/@user-fj4rk6zh6s)
 youtube.com##body:matches-path(/@windstory)
