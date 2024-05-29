@@ -7,4 +7,5 @@ youtube.com##body:matches-path(/@JinRyangKR/)
 ||tw.news.yahoo.com
 
 ! infringement on intellectual property
+youtube.com##body:matches-path(/@bobtalk8323/)
 youtube.com##body:matches-path(/@user-lx9hr4tb2v/)
