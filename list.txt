@@ -4,6 +4,7 @@
 ||storm.mg
 ! pronoun in title
 youtube.com##body:matches-path(/@JinRyangKR/)
+||skykiwi.com
 ||tw.news.yahoo.com
 
 ! infringement on intellectual property
