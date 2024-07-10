@@ -1,3 +1,4 @@
+youtube.com##body:matches-path(/@CCTV)
 youtube.com##body:matches-path(/@CuteCompass)
 youtube.com##body:matches-path(/@TreeMan)
 youtube.com##body:matches-path(/@rolfyeliasdeleonmendez)
