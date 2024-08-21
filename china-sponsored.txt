@@ -6,3 +6,6 @@ youtube.com##body:matches-path(/@user-fj4rk6zh6s)
 youtube.com##body:matches-path(/@windstory)
 youtube.com##body:matches-path(/@y2kchannel681)
 youtube.com##body:matches-path(/@youdianyisi2020)
+
+
+||wcweekly.com
