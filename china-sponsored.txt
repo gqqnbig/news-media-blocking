@@ -9,4 +9,5 @@ youtube.com##body:matches-path(/@y2kchannel681)
 youtube.com##body:matches-path(/@youdianyisi2020)
 
 ||bcbay.com
+||sydneytoday.com
 ||wcweekly.com
