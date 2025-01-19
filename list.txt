@@ -4,6 +4,7 @@
 ||storm.mg
 ! pronoun in title
 youtube.com##body:matches-path(/@JinRyangKR/)
+youtube.com##body:matches-path(/@dietitian_pink/)
 youtube.com##body:matches-path(/@xilanceylan/)
 ||tw.news.yahoo.com
 
