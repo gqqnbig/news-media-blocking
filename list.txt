@@ -3,6 +3,7 @@
 !fog (emotional)
 ||storm.mg
 ! pronoun in title
+tw.news.yahoo.com
 youtube.com##body:matches-path(/@JinRyangKR/)
 youtube.com##body:matches-path(/@dietitian_pink/)
 youtube.com##body:matches-path(/@xilanceylan/)
