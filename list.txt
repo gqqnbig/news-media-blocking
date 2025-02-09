@@ -1,5 +1,6 @@
 !image of text, missing references
 ||unwire.hk  
+
 !fog (emotional)
 ||storm.mg
 ! pronoun in title
@@ -11,3 +12,6 @@ youtube.com##body:matches-path(/@xilanceylan/)
 
 ! infringement on intellectual property
 youtube.com##body:matches-path(/@user-lx9hr4tb2v/)
+
+! false information
+||cnet.com
