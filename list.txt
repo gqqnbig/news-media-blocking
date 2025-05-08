@@ -11,3 +11,7 @@ youtube.com##body:matches-path(/@xilanceylan/)
 
 ! infringement on intellectual property
 youtube.com##body:matches-path(/@user-lx9hr4tb2v/)
+
+! unethical use of AI
+youtube.com##body:matches-path(/@melodyisheremusic/)
+
