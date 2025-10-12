@@ -1,1 +1,4 @@
 ||partitionwizard.com
+
+
+www.reddit.com/r/LineageOS/*^$document
