@@ -1,4 +1,5 @@
 ||partitionwizard.com
 
-
-www.reddit.com/r/LineageOS/*^$document
+! troll, hate speech
+||reddit.com/r/LineageOS/*^$document
+||reddit.com/r/Wordpress/*^$document
