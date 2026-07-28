@@ -1,7 +1,5 @@
 !image of text, missing references
 ||unwire.hk  
-!fog (emotional)
-||storm.mg
 ! pronoun in title
 tw.news.yahoo.com
 youtube.com##body:matches-path(/@JinRyangKR/)
