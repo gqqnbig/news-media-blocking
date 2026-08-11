@@ -14,17 +14,17 @@ youtube.com##body:matches-path(/@user-lx9hr4tb2v/)
 youtube.com##body:matches-path(/@melodyisheremusic/)
 
 ||downkuai.com
-reddit.com/r/bestvpnchina/*^$document
+reddit.com/r/bestvpnchina^$document
 
 
 ! content farm
 ! group 1
-||vpnfast.github.io*^$document
-||sites.google.com/view/best-china-vpn/*^$document
-||overwallvpn.com/*^$document
-||howandbest.com/*^$document
+||vpnfast.github.io^$document
+||sites.google.com/view/best-china-vpn^$document
+||overwallvpn.com^$document
+||howandbest.com^$document
 ||github.com/howandbest*^$document
-||howandbest.github.io/*^$document
+||howandbest.github.io^$document
 ||github.com/topvpntool*^$document
 
 
