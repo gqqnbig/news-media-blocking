@@ -1,11 +1,10 @@
 !image of text, missing references
 ||unwire.hk  
 ! pronoun in title
-tw.news.yahoo.com
 youtube.com##body:matches-path(/@JinRyangKR/)
 youtube.com##body:matches-path(/@dietitian_pink/)
 youtube.com##body:matches-path(/@xilanceylan/)
-||tw.news.yahoo.com
+||tw.news.yahoo.com^$document
 
 ! infringement on intellectual property
 youtube.com##body:matches-path(/@user-lx9hr4tb2v/)
@@ -13,7 +12,7 @@ youtube.com##body:matches-path(/@user-lx9hr4tb2v/)
 ! unethical use of AI
 youtube.com##body:matches-path(/@melodyisheremusic/)
 
-||downkuai.com
+||downkuai.com^$document
 reddit.com/r/bestvpnchina^$document
 
 
@@ -23,8 +22,8 @@ reddit.com/r/bestvpnchina^$document
 ||sites.google.com/view/best-china-vpn^$document
 ||overwallvpn.com^$document
 ||howandbest.com^$document
-||github.com/howandbest*^$document
+||github.com/howandbest^$document
 ||howandbest.github.io^$document
-||github.com/topvpntool*^$document
+||github.com/topvpntool^$document
 
 
